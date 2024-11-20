@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, My name is David Valcarcel 👋
+### Freelance full-stack engineer 
 
 <!--
 **Ds2v/Ds2v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
