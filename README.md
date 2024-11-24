@@ -1,5 +1,8 @@
 ## Hi there, My name is David Valcarcel 👋
-### Freelance full-stack engineer ![https://github.com/Ds2v](./image_mail.png)
+### Freelance full-stack engineer ![https://github.com/Ds2v](./image_greeting.png)
+
+### ![https://github.com/Ds2v](./image_mail.png)
+
 
 
 <!--
