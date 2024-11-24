@@ -1,5 +1,6 @@
 ## Hi there, My name is David Valcarcel 👋
-### Freelance full-stack engineer ![https://github.com/Ds2v](./java.png)(./java.png)
+### Freelance full-stack engineer 
+### ![https://github.com/Ds2v](./java.png)
 <!-- Icono de Pixel perfect -->
 <!-- Icono de Prashu Rapol -->
 
